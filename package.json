@@ -1,0 +1,30 @@
+{
+  "name": "metamusic",
+  "version": "0.0.0",
+  "description": "Get related information for specified music track.",
+  "main": "index.js",
+  "bin": "cli.js",
+  "dependencies": {
+    "googleapis": "0.7.x",
+    "optimist": "0.6.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakutis/metamusic"
+  },
+  "keywords": [
+    "youtube",
+    "music",
+    "audio",
+    "track",
+    "video"
+  ],
+  "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
+  "license": "GPL-3.0",
+  "bugs": "https://github.com/jakutis/metamusic/issues",
+  "homepage": "https://npmjs.org/package/metamusic"
+}
