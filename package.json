@@ -1,6 +1,6 @@
 {
   "name": "metamusic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get related information for specified music track.",
   "main": "index.js",
   "bin": "cli.js",
